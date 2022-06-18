@@ -1,5 +1,5 @@
 //An array of nice color codes we shall pick from
-let niceColors = ["#C5514C", "#EC9D6C", "#FAE2B7", "#6D7D8F", "#52728C, #FFFFFF, #FFC0CB"];
+let niceColors = ["#C5514C", "#EC9D6C", "#FAE2B7", "#6D7D8F", "#52728C", "#000", "#FFC0CB"];
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
